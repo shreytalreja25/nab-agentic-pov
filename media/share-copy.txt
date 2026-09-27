@@ -1,0 +1,1 @@
+Quality, engineered as a governed loop: one bank change goes from blast radius to TestKraft-generated tests, through CI, to a four-gate Eval Harness that passes only with evidence. No production release without domain scenarios, trace-level evidence, and explicit threshold gates. Ready to see it, not hear about it? playground.statusneo.com
