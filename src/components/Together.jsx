@@ -5,7 +5,7 @@ export default function Together() {
     <section className="block last" id="together">
       <div className="wrap">
         <div className="sec-head reveal">
-          <div className="eyebrow gold">VII · Working together</div>
+          <div className="eyebrow gold">VIII · Working together</div>
           <h2>
             One squad. Six weeks. <span className="serif">Numbers, not narrative.</span>
           </h2>

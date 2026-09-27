@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { DIMENSIONS, LEVELS, PREPARED_FOR } from '../content'
+import { DIMENSIONS, LEVELS } from '../content'
 
 const SIZE = 320
 const MID = SIZE / 2
@@ -61,7 +61,7 @@ export default function Scan({ onCopy }) {
 
   const summary = () => {
     const lines = [
-      `NAB Quality Engineering — Maturity Scan (with ${PREPARED_FOR.name})`,
+      'NAB Quality Engineering — Maturity Scan',
       '',
       ...DIMENSIONS.map((d, i) => `- ${d.name}: L${values[i] + 1} ${LEVELS[values[i]]}`),
       '',

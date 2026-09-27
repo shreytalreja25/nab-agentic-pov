@@ -1,4 +1,4 @@
-import { HERO_STATS, AUTHENTIC_LOOP, PREPARED_FOR } from '../content'
+import { HERO_STATS, AUTHENTIC_LOOP } from '../content'
 import { AuthenticAILogo } from './Logos'
 
 const C = 250
@@ -59,13 +59,6 @@ export default function Hero() {
               Not a parallel practice with its own copy of the truth. Quality that reasons over the same
               context as engineering, tests what actually changed, and proves every release with evidence.
             </p>
-            <div className="prepared">
-              <span className="dot"><i /></span>
-              <span>
-                <b>Prepared for {PREPARED_FOR.name}</b>
-                <span>{PREPARED_FOR.role}</span>
-              </span>
-            </div>
           </div>
           <LoopRing />
         </div>

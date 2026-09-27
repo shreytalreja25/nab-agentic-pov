@@ -19,7 +19,7 @@ export default function Governance() {
     <section className="block" id="governance">
       <div className="wrap">
         <div className="sec-head reveal">
-          <div className="eyebrow gold">VI · Governance for a regulated bank</div>
+          <div className="eyebrow gold">VII · Governance for a regulated bank</div>
           <h2>
             Governance is not a review step. <span className="serif">It is executable.</span>
           </h2>

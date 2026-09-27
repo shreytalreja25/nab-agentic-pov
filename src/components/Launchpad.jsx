@@ -12,7 +12,7 @@ export default function Launchpad({ onCopy }) {
     <section className="block" id="launchpad">
       <div className="wrap">
         <div className="sec-head reveal">
-          <div className="eyebrow gold">V · Launchpad — live accelerators</div>
+          <div className="eyebrow gold">VI · Launchpad — live accelerators</div>
           <h2>
             Ready to see it, <span className="serif">not hear about it?</span>
           </h2>

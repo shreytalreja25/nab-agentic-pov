@@ -9,11 +9,6 @@ export const LINKS = {
   neodatatest: 'https://playground.statusneo.com/data-testing',
 }
 
-export const PREPARED_FOR = {
-  name: 'Mithun Kanchi',
-  role: 'Head of Quality Engineering, NAB',
-}
-
 export const PREPARED_BY = {
   name: 'Shrey Talreja',
   role: 'AI Transformation, StatusNeo ANZ',
@@ -24,9 +19,10 @@ export const SECTIONS = [
   { id: 'scan', num: 'II', title: 'Maturity Scan', sub: 'Where NAB QE sits' },
   { id: 'loop', num: 'III', title: 'The Quality Loop', sub: 'How it works' },
   { id: 'scenarios', num: 'IV', title: 'Scenarios', sub: 'Banking use cases' },
-  { id: 'launchpad', num: 'V', title: 'Launchpad', sub: 'See it run' },
-  { id: 'governance', num: 'VI', title: 'Governance', sub: 'Evidence by default' },
-  { id: 'together', num: 'VII', title: 'Together', sub: 'First 6 weeks' },
+  { id: 'proof', num: 'V', title: 'Proof', sub: 'Case studies' },
+  { id: 'launchpad', num: 'VI', title: 'Launchpad', sub: 'See it run' },
+  { id: 'governance', num: 'VII', title: 'Governance', sub: 'Evidence by default' },
+  { id: 'together', num: 'VIII', title: 'Together', sub: 'First 6 weeks' },
 ]
 
 export const HERO_STATS = [

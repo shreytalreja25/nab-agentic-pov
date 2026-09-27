@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Scan from './components/Scan'
 import Loop from './components/Loop'
 import Scenarios from './components/Scenarios'
+import CaseStudies from './components/CaseStudies'
 import Launchpad from './components/Launchpad'
 import Governance from './components/Governance'
 import Together from './components/Together'
@@ -22,6 +23,7 @@ export default function App() {
         <Scan onCopy={copy} />
         <Loop />
         <Scenarios />
+        <CaseStudies />
         <Launchpad onCopy={copy} />
         <Governance />
         <Together />
